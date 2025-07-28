@@ -22,7 +22,7 @@ Tech Stack
 
 Live Site
 
-[View Portfolio on GitHub Pages](https://AJ-254.github.io/July25Hackathon1.git/)  
+[🌍 View Portfolio on GitHub Pages](https://AJ-254.github.io/July25Hackathon1/)
 
 Contact Me
 
